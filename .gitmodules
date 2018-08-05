@@ -1,0 +1,6 @@
+[submodule "norvig"]
+	path = norvig
+	url = git@github.com:proudzhu/sudoku-norvig.git
+[submodule "brute_force"]
+	path = brute_force
+	url = git@github.com:proudzhu/sudoku-brute-force.git
